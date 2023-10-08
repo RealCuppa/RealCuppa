@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Samarth Saxena
 #### Computer Science (Sophomore)
-![Computer Science (Sophomore)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I love learning new things in Computer Science and find new people to collaborate to learn from. cheers!
 
 Skills: C / C++ / REACT / JS / HTML / CSS
