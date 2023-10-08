@@ -4,4 +4,4 @@ I'm Samarth from India, and I am a student of computer science. I really enjoy l
 ## Skills and Experience
 * ⚛ React
 * 📱 React Native
-* 💻 C,C++, HTML, CSS, JS
+* 💻 C, C++, HTML, CSS, JS
