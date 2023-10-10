@@ -1,5 +1,5 @@
 # Samarth Saxena
-I'm Samarth from India, and I am a student of computer science. I really enjoy learning languages and frameworks. I also enjoy wireframing, ui, ux, and design in general and also building my skills over backend development as of now.
+I'm Samarth from India, and I am a student of computer science / information technology. I really enjoy learning languages and frameworks. I also enjoy wireframing, ui, ux, and design in general. Currently building my skills over backend development.
 
 ## Skills and Experience
 * ⚛ React
